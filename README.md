@@ -1,4 +1,7 @@
-# DG’Hack
+# DG’Hack 2022
+
+Voici les writeups pour tous les challenges que j'ai réussi à flag pour cette édition du CTF 😎
+J'ai bien entendu bien avancé dans plusieurs autres challenges (Curlify, Wanna more features, Cryptobvious) mais je n'ai pas réussi à flag à temps, je vous renvoie donc vers les writeups des autres participants.
 
 # WEB - Un chasseur sachant chasser partie 1
 
